@@ -1,10 +1,13 @@
 
 # PRINTF  :pencil2:
 * Write a function that produces output according to a format.
+*  Prototype: int _printf(const char *format, ...);
+ 
+![giphy](https://user-images.githubusercontent.com/113644952/200672396-90eeffd7-7cdc-48bb-8d78-e5b0d856b8d3.gif)
 
-  Prototype: int _printf(const char *format, ...);
 
-# Inrtoduction :fax: 
+
+# introduction :fax: 
 * The printf function sends formatted output to stdout.  _printf() function format string is a character string, beginning and ending in its initial shift state, if any.   These arguments are placed using the percentage '%' operator 
 
 
@@ -52,4 +55,4 @@ Output: Hello Holberton   :page_facing_up:
 
 
 
-g)
+D.N M.C
