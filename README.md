@@ -45,7 +45,9 @@ Basic String: _printf("%s Holberton", "Hello");`
 
 Output: Hello Holberton   :page_facing_up:
 
+____________________________________________________________________
 
+you can see more information in te manual page
 
 
 ![printf-block-diagram](https://user-images.githubusercontent.com/113644952/200710938-0c303380-7e68-436f-b69e-233adcaf425e.png)
@@ -53,10 +55,7 @@ Output: Hello Holberton   :page_facing_up:
 
 
 
-
-
-
-
+![manual printf](https://user-images.githubusercontent.com/113644952/200889456-fb529317-313b-4d4e-8241-e51db1f81336.PNG)
 
 
 
