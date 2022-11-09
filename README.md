@@ -1,10 +1,9 @@
+![banner printf](https://user-images.githubusercontent.com/113644952/200710905-dde5393e-6a50-47da-b475-e5b874924598.png)
 
-# PRINTF  :pencil2:
+
 * Write a function that produces output according to a format.
 *  Prototype: int _printf(const char *format, ...);
  
-![giphy](https://user-images.githubusercontent.com/113644952/200672396-90eeffd7-7cdc-48bb-8d78-e5b0d856b8d3.gif)
-
 
 
 # introduction :fax: 
@@ -20,6 +19,10 @@
 <h4 align="center">
 :construction: Proyecto en construcción :construction:
 </h4>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/113644952/200672396-90eeffd7-7cdc-48bb-8d78-e5b0d856b8d3.gif" alt="printed"/>
+</p>
 
 ## Authorized functions and macros    :customs:
 
@@ -42,6 +45,10 @@ Basic String: _printf("%s Holberton", "Hello");`
 
 Output: Hello Holberton   :page_facing_up:
 
+
+
+
+![printf-block-diagram](https://user-images.githubusercontent.com/113644952/200710938-0c303380-7e68-436f-b69e-233adcaf425e.png)
 
 
 
