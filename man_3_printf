@@ -23,7 +23,7 @@ the standard output stream;
 This function write the output under the control of a
 .I format
 string that specifies how subsequent arguments (or arguments accessed via  the  variable-length argument facilities of
-.BR stdarg(3))
+.BR stdarg(3)
 are converted for output.
 .
 
